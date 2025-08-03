@@ -16,4 +16,4 @@ _In_ int       nCmdShow
 )
 {
 	return 0; //0は正常終了,0以外はエラー
-}
+}a
